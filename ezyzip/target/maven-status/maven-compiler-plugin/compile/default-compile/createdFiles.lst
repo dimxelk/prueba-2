@@ -1,0 +1,14 @@
+presentationlayer\MdiPrincipal$2.class
+presentationlayer\MdiPrincipal.class
+presentationlayer\InsertarActividad.class
+dataacceslayer\DataBaseConnection.class
+presentationlayer\EliminarActividad$1.class
+presentationlayer\MdiPrincipal$1.class
+Main\SegundoProyecto.class
+presentationlayer\EliminarActividad.class
+repositorylayer\RepoActivity.class
+presentationlayer\InsertarActividad$1.class
+datatransferlayer\DtoActivity.class
+businesslayer\BusinessActivity.class
+dataacceslayer\QActivity.class
+presentationlayer\ListarActividad.class
